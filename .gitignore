@@ -1,0 +1,6 @@
+*class
+/target/
+hibernate.cfg.xml
+.setting
+.project
+.classpath
